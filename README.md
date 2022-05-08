@@ -42,12 +42,8 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
 ------
 
-[BrantLauro](https://github.com/LabLearning)
+[FlorinDobinciuc](https://github.com/LabLearning)
 
 Last Edited on: 08/05/2022
